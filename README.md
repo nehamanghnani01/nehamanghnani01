@@ -5,7 +5,7 @@ Software Engineer | System Design | 3 years of professional work experience as a
 <b>Connect with me</b> : 
 [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/neha-manghnani/)  |   📧[ Email](mailto:nehamanghnani015@gmail.com)
 
-
+<b>[Resume](https://drive.google.com/file/d/1zFe4w9ked6WU1drFfKE8M3NfMU6tLIvA/view?usp=sharing)</b>
 
 🔭 Current Work 
 - 
@@ -31,6 +31,8 @@ Software Engineer | System Design | 3 years of professional work experience as a
 ### [Interplast Co. Ltd](https://www.interplast-uae.com/)
 - Software Developer Intern (Jan 2020 - Jul 2020)
 
+### [GSL, Al Shirawi Group](https://alshirawi.com/company/global-shipping-logistics/)
+- Software Developer Intern (June 2018 - Aug 2018)
 
 🎓 Education 
 -
