@@ -15,6 +15,7 @@ Software Engineer | System Design | 3 years of professional work experience as a
 
 🌱 Learning 
 - 
+- Android - Coroutines, Flows (brushing up)
 - LLM Finetuning
 - Backend Development
 - Exploring Cloud Services
