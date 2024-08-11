@@ -12,15 +12,16 @@ Software Engineer | System Design | 3 years of professional work experience as a
 ### Chrome Extension to Capture User Sensitive Data 
 - Developing a chrome extension which captures API endpoints (HTTP requests)
 - Analyzing the user sensitive information which is passed via the API endpoints
-- Aim - to use LLM to parse the user information being passed and sanitize the data before sending it via the API to the website 
+- Aim - to use local LLM to parse the user information being passed and sanitize the data before sending it via the API to the website
+- Exploring the usage of [ollama](https://github.com/ollama) and [ollama.js](https://github.com/ollama/ollama-js) to analyze request payloads
 ### Participating in the AIXCC DARPA Challenge 2024
 - Identifying Code Vulnerabilities and Security Issues using LLM's
 - Developing an automated AI system to find code vulnerabilities and provide code patches using LLM (GPT4 / GPT4o)
 
 🌱 Learning 
 - 
-- Android - Coroutines, Flows (brushing up)
 - LLM Finetuning
+- Android - Coroutines, Flows (brushing up)
 - Backend Development
 - Exploring Cloud Services
 
