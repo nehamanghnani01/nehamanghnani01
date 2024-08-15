@@ -17,6 +17,8 @@ Software Engineer | System Design | 3 years of professional work experience as a
 ### Participating in the AIXCC DARPA Challenge 2024
 - Identifying Code Vulnerabilities and Security Issues using LLM's
 - Developing an automated AI system to find code vulnerabilities and provide code patches using LLM (GPT4 / GPT4o)
+  
+_[Semifinal Results](https://aicyberchallenge.com/) (August 11 2024) - One of the Top 7 teams (Team name - 'all_you_need_is_a_fuzzing_brain') proceeding to Finals, which is to be held in August 2025_
 
 🌱 Learning 
 - 
