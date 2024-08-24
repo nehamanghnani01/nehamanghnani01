@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Software Engineer | System Design | 3 years of professional work experience as a Software Engineer in Mobile Development (Android) 
+Software Engineer | System Design | 3 years of professional work experience as a Software Engineer | LLM | GenAI | Security 
 
 <b>Connect with me</b> : 
 [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/neha-manghnani/)  |   📧[ Email](mailto:nehamanghnani015@gmail.com)
@@ -18,11 +18,12 @@ Software Engineer | System Design | 3 years of professional work experience as a
 - Identifying Code Vulnerabilities and Security Issues using LLM's
 - Developing an automated AI system to find code vulnerabilities and provide code patches using LLM (GPT4 / GPT4o)
   
-_[Semifinal Results](https://aicyberchallenge.com/) (August 11 2024) - One of the Top 7 teams (Team name - 'all_you_need_is_a_fuzzing_brain') proceeding to Finals, which is to be held in August 2025_
+🏆 _[Semifinal Results](https://aicyberchallenge.com/) (August 11 2024) - One of the Top 7 teams (Team name - 'all_you_need_is_a_fuzzing_brain') proceeding to Finals, which is to be held in August 2025_
 
 🌱 Learning 
 - 
-- LLM Finetuning
+- Concepts on Network Security and User Data Protection 
+- LLM and underlying Transformer architecture
 - Android - Coroutines, Flows (brushing up)
 - Backend Development
 - Exploring Cloud Services
