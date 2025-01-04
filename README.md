@@ -48,8 +48,7 @@ Software Engineer | System Design | 3 years of professional work experience as a
 🎓 Education 
 -
 ### Master of Science in Computer Science 
-Aug 2023 - Present <br>
-*(Expected Graduation: between Dec 2024 to May 2025)* <br>
+Aug 2023 - May 2025 <br>
 Texas A&M University, College Station, Texas, USA 
 
 ### B.E. Computer Science 
