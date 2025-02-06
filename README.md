@@ -45,7 +45,7 @@ Software Engineer | System Design | 3 years of professional work experience as a
 - Software Engineer (Oct 2020 - Feb 2023)
 
 ### [Computer Science & Engineering Department, Texas A&M University, College Station](https://engineering.tamu.edu/cse/research/index.html)
-- Research Support Assistant (Sept 2023 - Present)
+- Student Technician - Research (Sept 2023 - Present)
   
 ### [Interplast Co. Ltd](https://www.interplast-uae.com/)
 - Software Developer Intern (Jan 2020 - Jul 2020)
