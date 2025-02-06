@@ -11,12 +11,20 @@ Software Engineer | System Design | 3 years of professional work experience as a
 
 🔭 Current Work 
 - 
-### Chrome Extension to Capture User Sensitive Data 
+### AI for Software Security and User Privacy
+#### Masking User Sensitive Data 
+- Extensive use of GenAI websites makes user private information less secure as it is retained by websites or used by models for training
+- Developing a system to mask sensitive data from the user input before it is prompted to the model
+- Extracting private information locally, and preserving the values until response is received to the user in the local device
+- Ensuring user private information is preserved locally and not sent out to the website or any large language model used via user prompts.
+- Currently, evaluating different model performances in the local environment for accuracy of identifying sensitive information. 
+#### Capturing API Endpoints 
 - Developing a chrome extension which captures API endpoints (HTTP requests)
 - Analyzing the user sensitive information which is passed via the API endpoints
 - Aim - to use local LLM to parse the user information being passed and sanitize the data before sending it via the API to the website
 - Exploring the usage of [ollama](https://github.com/ollama) and [ollama.js](https://github.com/ollama/ollama-js) to analyze request payloads
-### Participating in the AIXCC DARPA Challenge 2024-2025
+  
+### Participated in the AIXCC DARPA Challenge 2024-2025
 - Identifying Code Vulnerabilities and Security Issues using LLM's
 - Developing an automated AI system to find code vulnerabilities and provide code patches using LLM (GPT4 / GPT4o)
   
@@ -24,7 +32,7 @@ Software Engineer | System Design | 3 years of professional work experience as a
 
 🌱 Learning 
 - 
-- Concepts on Network Security and User Data Protection 
+- Data Structures and Algorithms, Logic Building
 - LLM and underlying Transformer architecture
 - Android - Coroutines, Flows (brushing up)
 - Backend Development
