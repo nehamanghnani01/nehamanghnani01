@@ -12,15 +12,17 @@ Software Engineer | System Design | 3 years of professional work experience as a
 🔭 Current Work 
 - 
 ### AI for Software Security and User Privacy
+_Working as Student Technician - assisting PhD candidate with Software Engineering workload_
 #### Masking User Sensitive Data 
 - Extensive use of GenAI websites makes user private information less secure as it is retained by websites or used by models for training
-- Developing a system to mask sensitive data from the user input before it is prompted to the model
-- Extracting private information locally, and preserving the values until response is received to the user in the local device
+- Built Chrome Extension to mask sensitive data when interacting with websites & remote models, enhancing privacy.
+- Extracting private information and preserving in key-value format until response is received to the user in the local device
 - Ensuring user private information is preserved locally and not sent out to the website or any large language model used via user prompts.
-- Currently, evaluating different model performances in the local environment for accuracy of identifying sensitive information. 
+- Currently, implemeting Python scripts to evaluate model performance for on-device deployment, ensuring best LLM selection.
 #### Capturing API Endpoints 
 - Developing a chrome extension which captures API endpoints (HTTP requests)
 - Analyzing the user sensitive information which is passed via the API endpoints
+- Configured an Express.js backend to route local LLM traffic, resolving CORS policy restrictions for seamless integration.
 - Aim - to use local LLM to parse the user information being passed and sanitize the data before sending it via the API to the website
 - Exploring the usage of [ollama](https://github.com/ollama) and [ollama.js](https://github.com/ollama/ollama-js) to analyze request payloads
   
@@ -45,7 +47,7 @@ Software Engineer | System Design | 3 years of professional work experience as a
 - Software Engineer (Oct 2020 - Feb 2023)
 
 ### [Computer Science & Engineering Department, Texas A&M University, College Station](https://engineering.tamu.edu/cse/research/index.html)
-- Student Technician - Research (Sept 2023 - Present)
+- Software Engineering - Student Technician (Sept 2023 - Present)
   
 ### [Interplast Co. Ltd](https://www.interplast-uae.com/)
 - Software Developer Intern (Jan 2020 - Jul 2020)
