@@ -42,7 +42,7 @@ _Working as Student Technician - assisting PhD candidate with Software Engineeri
 
 :briefcase: Work Experience 
 - 
-### [BlueSecures](https://bluesecures.com/us/)
+### [Murphi.ai, formerly BlueSecures](https://murphi.ai/)
 - Senior Software Engineer  (Mar 2023 - Jul 2023)
 - Software Engineer (Oct 2020 - Feb 2023)
 
