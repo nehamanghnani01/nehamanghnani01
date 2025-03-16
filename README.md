@@ -5,7 +5,7 @@ Software Engineer | System Design | 3 years of professional work experience as a
 <b>Connect with me</b> : 
 [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/neha-manghnani/)  |   📧[ Email](mailto:nehamanghnani015@gmail.com)
 
-<b>[Resume](https://drive.google.com/file/d/1z8V34qs3KRlo369vwCVaKpW4dO1yRrLM/view?usp=sharing)</b> 
+<b>[Resume](https://drive.google.com/file/d/1jtyFfpiIIr33Pb1UJUkxaDuB09O9L4Nj/view?usp=sharing)</b> 
 
 <b>[Leetcode](https://leetcode.com/u/neha_manghnani/)</b>
 
