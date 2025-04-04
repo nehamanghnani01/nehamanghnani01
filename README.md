@@ -34,10 +34,10 @@ _Working as Student Technician - assisting PhD candidate with Software Engineeri
 
 🌱 Learning 
 - 
-- Data Structures and Algorithms, Logic Building
+- Data Structures and Algorithms, Logic Building (checkout my [leetcode](https://leetcode.com/u/neha_manghnani/) profile!)
+- MERN Stack Development
 - LLM and underlying Transformer architecture
 - Android - Coroutines, Flows (brushing up)
-- Backend Development
 - Exploring Cloud Services
 
 :briefcase: Work Experience 
