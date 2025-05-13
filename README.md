@@ -9,16 +9,18 @@ Software Engineer | System Design | 3 years of professional work experience as a
 
 <b>[Leetcode](https://leetcode.com/u/neha_manghnani/)</b>
 
-🔭 Current Work 
+🔭 Work Highlights
 - 
-### AI for Software Security and User Privacy
-_Working as Student Technician - assisting PhD candidate with Software Engineering workload_
+### AI for Software Security and User Privacy, Sept 2023 - Mar 2025
+_Worked as Student Technician - assisting PhD candidate with Software Engineering workload_
+
 #### Masking User Sensitive Data 
 - Extensive use of GenAI websites makes user private information less secure as it is retained by websites or used by models for training
 - Built Chrome Extension to mask sensitive data when interacting with websites & remote models, enhancing privacy.
 - Extracting private information and preserving in key-value format until response is received to the user in the local device
 - Ensuring user private information is preserved locally and not sent out to the website or any large language model used via user prompts.
 - Currently, implemeting Python scripts to evaluate model performance for on-device deployment, ensuring best LLM selection.
+  
 #### Capturing API Endpoints 
 - Developing a chrome extension which captures API endpoints (HTTP requests)
 - Analyzing the user sensitive information which is passed via the API endpoints
@@ -32,6 +34,13 @@ _Working as Student Technician - assisting PhD candidate with Software Engineeri
   
 🏆 _[Semifinal Results](https://aicyberchallenge.com/) (August 11 2024) - One of the Top 7 teams (Team name - 'all_you_need_is_a_fuzzing_brain') proceeding to Finals, which is to be held in August 2025_
 
+### Journey from Scratch to Production - BlueSecures Android Platform, Oct 2020 - Jul 2023 
+- Founding Software Engineer for the B2B SaaS product BlueSecures for secure and private official messaging.
+- Incorporated MVVM architecture, shifted codebase from Java to Kotlin, to enhance stability and easy code maintenance.
+- Code refactors and efficient root cause analysis to reduce recurring code bugs by 70%.
+- Involved in end-to-end development of business features and collaborated with cross functional teams to deliver the product on time.
+- Promoted to Senior Software Engineer, and led a team of 5 engineers through the bi-weekly sprints ensuring timely feature delivery.
+
 🌱 Learning 
 - 
 - Data Structures and Algorithms, Logic Building (checkout my [leetcode](https://leetcode.com/u/neha_manghnani/) profile!)
@@ -42,12 +51,12 @@ _Working as Student Technician - assisting PhD candidate with Software Engineeri
 
 :briefcase: Work Experience 
 - 
-### [Murphi.ai, formerly BlueSecures](https://murphi.ai/)
+### [Computer Science & Engineering Department, Texas A&M University, College Station](https://engineering.tamu.edu/cse/research/index.html)
+- Student Technician, Software Engineering (Sept 2023 - Mar 2025)
+
+###  [Murphi.ai, formerly BlueSecures](https://murphi.ai/) 
 - Senior Software Engineer  (Mar 2023 - Jul 2023)
 - Software Engineer (Oct 2020 - Feb 2023)
-
-### [Computer Science & Engineering Department, Texas A&M University, College Station](https://engineering.tamu.edu/cse/research/index.html)
-- Software Engineering - Student Technician (Sept 2023 - Present)
   
 ### [Interplast Co. Ltd](https://www.interplast-uae.com/)
 - Software Developer Intern (Jan 2020 - Jul 2020)
